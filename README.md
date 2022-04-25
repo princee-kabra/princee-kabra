@@ -24,6 +24,9 @@ Happy to meet new people and always excited for challenging opportunities!!
 <img src= "https://user-images.githubusercontent.com/54720297/165033904-017ad120-5058-4f6e-842c-05e6f5b2b734.png" width="45" height="35" /> 
 <img src= "https://user-images.githubusercontent.com/54720297/165035689-d1fd26b7-5e9c-4215-94fa-e7c8a7f51bef.png" width="65" height="35" /> 
 
+**Frameworks**:
+
+<img src= "https://user-images.githubusercontent.com/54720297/165037548-3fac17c0-09b3-4f44-bd1d-9377d8556b10.png" width="65" height="35" /> <img src="https://user-images.githubusercontent.com/54720297/165037640-f1c5ee5c-ffa3-4913-9c3c-636c63991edb.png" width="65" height="35" /> 
 
 
 
