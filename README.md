@@ -32,6 +32,4 @@ Happy to meet new people and always excited for challenging opportunities!!
 
 ## Connect with me:
 
-> To get in touch, please reach out via:
-> [Gmail](princeekabra@gmail.com) 
-> [LinkedIn](https://www.linkedin.com/in/princeekabra/) 
+ <a href="mailto:princeekabra28@gmail.com"> <img src="https://user-images.githubusercontent.com/105099270/168034611-ebcb979f-a52b-40bd-afa0-f9deed683a42.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>  <a href="https://www.linkedin.com/in/princeekabra/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/105099270/168032750-f16fa63c-c8cf-4c7a-9a98-2980b3666947.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
