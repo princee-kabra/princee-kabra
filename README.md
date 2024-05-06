@@ -7,7 +7,8 @@ Hi I'm **Princee Kabra** <img src="https://camo.githubusercontent.com/e8e7b06ecf
 ![Princee's GitHub stats](https://github-readme-stats.vercel.app/api?username=princee-kabra&theme=dark&show_icons=true)
 
 
-I am a final year computer science student at [College of technology and Engineering](https://www.ctae.ac.in/). A problem solver, tech enthusiast,developer & Coder exploring different fields of Computer Science.
+I currently hold the position of Associate Software Engineer at ServiceNow. In my role, I focus on developing Natural Language Understanding (NLU) models to enhance interactions and data modeling within the ServiceNow platform. Prior to this, I gained experience as a Software Development Engineer (SDE) intern at Securemeters, where I was responsible for designing a website using the Django framework. Additionally, I have completed various self-projects covering a range of topics including Machine Learning, Django, and database management. My passion lies in programming, and I am continuously eager to expand my skills and knowledge in this field.
+
 Happy to meet new people and always excited for challenging opportunities!!
 
 **I am open to**:
